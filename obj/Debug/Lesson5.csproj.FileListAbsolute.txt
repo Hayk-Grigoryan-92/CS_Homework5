@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Lesson5\Lesson5\bin\Debug\Lesson5.exe.config
+C:\Users\ASUS\Desktop\C#\Lesson5\Lesson5\bin\Debug\Lesson5.exe
+C:\Users\ASUS\Desktop\C#\Lesson5\Lesson5\bin\Debug\Lesson5.pdb
+C:\Users\ASUS\Desktop\C#\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Lesson5\Lesson5\obj\Debug\Lesson5.exe
+C:\Users\ASUS\Desktop\C#\Lesson5\Lesson5\obj\Debug\Lesson5.pdb
